@@ -1,0 +1,7 @@
+[package]
+name = "workshop"
+version = "0.1.0"
+authors = ["kamleshhello <kamlesh@iitk.ac.in>"]
+
+[dependencies]
+fs_extra = "1.1.0" 

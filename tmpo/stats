@@ -1,0 +1,1319 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>IIT Kanpur Placement Stats</title>
+  
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <script src="https://placement.iitk.ac.in/static/poweruser/js/app.min.js"></script>
+  <script src="https://placement.iitk.ac.in/static/poweruser/js/jquery.js"></script>
+  <script src="https://placement.iitk.ac.in/static/poweruser/js/datatables.js"></script>
+  <script src="https://placement.iitk.ac.in/static/poweruser/js/bootstrap.min.js"></script>
+  <script src="https://placement.iitk.ac.in/static/poweruser/js/tinymce.js"></script>
+  <script src="{% static 'poweruser/js/jquery-ui.js' %"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
+ 
+  <link rel="stylesheet" href="https://placement.iitk.ac.in/static/poweruser/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://placement.iitk.ac.in/static/poweruser/css/skin-blue.min.css">
+  <link rel="stylesheet" href="https://placement.iitk.ac.in/static/poweruser/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="https://placement.iitk.ac.in/static/poweruser/css/datatables.css">
+  <link rel="stylesheet" href="https://placement.iitk.ac.in/static/poweruser/css/font.css">
+  
+ 
+ 
+  <script>tinymce.init({ selector:'textarea' });</script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#Table').DataTable();
+} );
+
+</script>
+
+
+
+</head>
+<div class ="row text-center">
+<div class="col-md-12">
+<div class="container">
+<h3>IIT Kanpur Placement Stats</h3> <br><hr>
+<table id="Table" class="display text-center" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Roll Number </th>
+                <th>Company Name</th>
+                <th>Designation</th>
+                <th>Program</th>
+                <th>Department</th>
+                
+                
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Student Name</th>
+                <th>Roll Number </th>
+                <th>Company Name</th>
+                <th>Designation</th>
+                <th>Program</th>
+                <th>Department</th>
+                
+            </tr>
+        </tfoot>
+        <tbody>
+            
+                <tr>
+                <td>Suyash Baranwal</td>
+                <td>160733</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Rishabh Chaturvedi</td>
+                <td>150582</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>DoubleMajor</td>
+           		<td>AE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Ayush Garg</td>
+                <td>160179</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Akhil Jha</td>
+                <td>160075</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Abhishek Singh</td>
+                <td>160039</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CHE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Monal Goel</td>
+                <td>160415</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CHE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Vaibhav Agarwal</td>
+                <td>160765</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CHE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Varanasi Nitesh</td>
+                <td>160774</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CHE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mohit Kumar Singh</td>
+                <td>160411</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CHE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Pranshu Tripathi</td>
+                <td>160497</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CHE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Kshitiz Shukla</td>
+                <td>160347</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CHE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Bhavishya</td>
+                <td>160194</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Pragya Jain</td>
+                <td>160492</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Korlapati Ch K Varaprasad</td>
+                <td>160337</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mayank Sharma</td>
+                <td>160392</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Abhay Singh</td>
+                <td>160011</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Ashish Kumar</td>
+                <td>160160</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Naman Jain</td>
+                <td>160427</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Navya Rawat</td>
+                <td>160434</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Ankit Kumar</td>
+                <td>160120</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Bharat Jindal</td>
+                <td>160192</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mohammed Asad Karim</td>
+                <td>160405</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Pranjal Pratik Lal</td>
+                <td>160496</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Siddhant Sarkar</td>
+                <td>160682</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Abhinav Kumar</td>
+                <td>160019</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Siddhant Kar</td>
+                <td>160680</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Devanshu Somani</td>
+                <td>160231</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Raghav Garg</td>
+                <td>160534</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Sriram Varun Vobilisetty</td>
+                <td>160706</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Prateek Gothwal</td>
+                <td>160505</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Yash Mahajan</td>
+                <td>160822</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Amit Yadav</td>
+                <td>160099</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Yash Chandnani</td>
+                <td>160818</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Ajay Prakash Jalgaonkar</td>
+                <td>160059</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Vishwas Lathi</td>
+                <td>160808</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mohd Shahid Khan Afridi</td>
+                <td>160407</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Ayush Bansal</td>
+                <td>160177</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Vinayak Trivedi</td>
+                <td>160790</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Lakshay Bandlish</td>
+                <td>160360</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Pardhu Chowdary</td>
+                <td>160476</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Garvit Gopal</td>
+                <td>160261</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Siraj Singh Sandhu</td>
+                <td>160692</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Shubhojyoti Nath</td>
+                <td>150708</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>DoubleMajor</td>
+           		<td>CSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Utkarsh Barsaiyan</td>
+                <td>160757</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>ECO</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Smarth Gupta</td>
+                <td>160695</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>ECO</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Prateek Joshi</td>
+                <td>160507</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>ECO</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Anubhav Agarwal</td>
+                <td>160136</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>ECO</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Rishabh Agarwal</td>
+                <td>160567</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Nayan Ranjan</td>
+                <td>160435</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Abhinav Puwar</td>
+                <td>160020</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Dharmendra choudhary </td>
+                <td>160237</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Abhimanyu Singh</td>
+                <td>160014</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Yogendra Singh</td>
+                <td>160829</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Suraj Hanchinal</td>
+                <td>2147483647</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Omkar Kumar</td>
+                <td>160464</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mayank Shrivastava</td>
+                <td>160393</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Rajat Sachan</td>
+                <td>160553</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Chirag Singhvi</td>
+                <td>160213</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Yogesh Kumar</td>
+                <td>160831</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Sushma Nenavathu</td>
+                <td>160441</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Shruti Shukla</td>
+                <td>160667</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Priyanshu Singh</td>
+                <td>160521</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mohammad Areeb</td>
+                <td>160403</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Vipul Singhal</td>
+                <td>160798</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Akanksha Makkar</td>
+                <td>160062</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Aayushi Bansal </td>
+                <td>160007</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Himanshu Arora</td>
+                <td>160288</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Maneet Kaur</td>
+                <td>160383</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Sachin Tejwani</td>
+                <td>160601</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Sameer Meena</td>
+                <td>160616</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Aman Tiwari</td>
+                <td>160094</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>DoubleMajor</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Ankush Tiwari </td>
+                <td>160130</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>DoubleMajor</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mohd maab zia khan</td>
+                <td>160406</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>DoubleMajor</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Harsh Chittora</td>
+                <td>15807265</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>dual</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Pooja Sharma</td>
+                <td>18104071</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Pradeep Kumar</td>
+                <td>18104074</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Abhishek Gupta</td>
+                <td>18104002</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Himanshu</td>
+                <td>18104043</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>SHIVANI AGARWAL</td>
+                <td>18104103</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>RAKESH KUMAR SINGH</td>
+                <td>18104166</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Aditya Gupta</td>
+                <td>18104006</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>REENA SAHU</td>
+                <td>18104090</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Shreya Mishra</td>
+                <td>18104106</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Anand Mehrotra</td>
+                <td>18104154</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Ayushi Parwar</td>
+                <td>18104030</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>MT</td>
+           		<td>EE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Rohit Narayani</td>
+                <td>160587</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>ME</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Tanmay Singhal</td>
+                <td>160743</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>ME</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Prashant K Arya</td>
+                <td>160498</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>ME</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Nikhil Prakash Srivastava</td>
+                <td>160452</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>ME</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mohit Sinha</td>
+                <td>160413</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>ME</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Kushagra Ahuja</td>
+                <td>160355</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>ME</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Saksham Kaushik</td>
+                <td>160611</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>ME</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Ganesh Kumar Sharma</td>
+                <td>160258</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>DoubleMajor</td>
+           		<td>ME</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Aditya Jain</td>
+                <td>160047</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Anav Prasad</td>
+                <td>160111</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Shreyaansh Gupta</td>
+                <td>160664</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Aakarsh Gupta</td>
+                <td>160003</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Sandarsh Gupta</td>
+                <td>160620</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Abhishek Aryan</td>
+                <td>160025</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Madhurish Nitish Gupta</td>
+                <td>160374</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Aniket Pandey</td>
+                <td>160113</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Siddhartha Srivastava</td>
+                <td>160689</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Anurag Pandey</td>
+                <td>160140</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Mukund Maheshwari</td>
+                <td>160423</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Akashdeep Singh</td>
+                <td>160072</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Nikhil Kumar</td>
+                <td>160449</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BS</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Prakhar Ji Gupta</td>
+                <td>15817501</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>dual</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Robin Singh</td>
+                <td>15817591</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>dual</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Harshit Gupta</td>
+                <td>15817277</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>dual</td>
+           		<td>MTH</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Vivek Jain</td>
+                <td>160809</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>MSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Sumant Dayal</td>
+                <td>160715</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>BT</td>
+           		<td>MSE</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Khushboo Jain</td>
+                <td>181076</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>Msc</td>
+           		<td>Stats</td>
+               
+               	</tr>
+               
+            
+                <tr>
+                <td>Saikat Bhowmick</td>
+                <td>181121</td>
+                <td>PPO_IITK</td>
+                <td>PPO</td>
+                <td>Msc</td>
+           		<td>Stats</td>
+               
+               	</tr>
+               
+            
+
+            
+        </tbody>
+     </table>
+</div>
+</div>
+</div>
