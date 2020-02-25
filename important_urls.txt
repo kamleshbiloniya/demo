@@ -1,2 +1,4 @@
 1) How to Create & Manage MySQL Databases, Tables & Users
 https://www.a2hosting.in/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line?fbclid=IwAR1Z8woQlGh1Ihwa_Z2-rCDTuphF5H_dgCQ0lSBSnPGdhT7NYoMtaFerYUs
+2) Running Jupyter Notebooks on Remote Servers
+https://towardsdatascience.com/running-jupyter-notebooks-on-remote-servers-603fbcc256b3
