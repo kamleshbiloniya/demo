@@ -39,6 +39,6 @@ int main(int argc, char const *argv[])
 		v[i]=1;
 		seat(v,1);
 	}
-	cout<<counter<<" "<<best<<endl;
+	cout<<counter<<" "<<best<<endl; // prob=best/counter
 	return 0;
 }

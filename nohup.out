@@ -49,3 +49,98 @@ Untitled.ipynb
 upper.c
 Wave_array.cpp
 pid:25649
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+bind: Address already in use
+channel_setup_fwd_listener_tcpip: cannot listen to port: 8889
+Could not request local forwarding.
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+bind: Address already in use
+channel_setup_fwd_listener_tcpip: cannot listen to port: 8893
+Could not request local forwarding.
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 4: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+bind: Address already in use
+channel_setup_fwd_listener_tcpip: cannot listen to port: 8893
+Could not request local forwarding.
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 2: open failed: connect failed: Connection refused
+channel 3: open failed: connect failed: Connection refused
+packet_write_wait: Connection to 172.27.21.152 port 22: Broken pipe
+packet_write_wait: Connection to 172.27.21.150 port 22: Broken pipe
+packet_write_wait: Connection to 172.27.21.150 port 22: Broken pipe
+packet_write_wait: Connection to 172.27.21.150 port 22: Broken pipe
+packet_write_wait: Connection to 172.27.21.152 port 22: Broken pipe
+packet_write_wait: Connection to 172.27.21.150 port 22: Broken pipe
